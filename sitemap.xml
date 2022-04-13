@@ -3,35 +3,16 @@
   <url>
     <loc>https://www.misbahdev.gq/</loc>
     <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://www.misbahdev.gq/about.html</loc>
-    <changefreq>daily</changefreq>
-  </url>
+  </url
   <url>
     <loc>https://www.misbahdev.gq/index.html</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://www.misbahdev.gq/privacy.html</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://www.misbahdev.gq/term.html</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://www.misbahdev.gq/dis.html</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://www.misbahdev.gq/fifi.html</loc>
     <changefreq>daily</changefreq>
   </url>
-  <url>
-    <loc>https://www.misbahdev.gq/contact.html</loc>
-    <changefreq>daily</changefreq>
-  </url>
+  
   <url>
     <loc>https://www.misbahdev.gq/ipl.html</loc>
     <changefreq>daily</changefreq>
